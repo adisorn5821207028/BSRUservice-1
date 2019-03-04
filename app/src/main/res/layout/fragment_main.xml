@@ -14,10 +14,11 @@
 
         <!--Logo-->
         <ImageView
+
+            android:layout_width="150dp"
+            android:layout_height="150dp"
             android:layout_gravity="center_horizontal"
-            android:src="@drawable/logo"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:src="@drawable/html5" />
 
         <!--User-->
         <EditText
